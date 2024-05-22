@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698983126360",
+    "project_id": "homly-4bdc3",
+    "storage_bucket": "homly-4bdc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698983126360:android:ef8c872e61fefd6dfe012d",
+        "android_client_info": {
+          "package_name": "com.olive.homly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBUe8OPTV7UwY_X_tWECvkADVYgHxD43g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
